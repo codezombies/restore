@@ -1,0 +1,13 @@
+{
+  "name": "restore",
+  "version": "1.0.0",
+  "description": "simple library to manage global state. supports event subscription and event history out of the box. extensible via middlewares, ",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Ron de Leon",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
